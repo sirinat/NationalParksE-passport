@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">National Parks E-passport</string>
+    <string name="e_mail_hint">อีเมลล์</string>
+    <string name="guest_login_label">ผู้ใช้งานทั่วไป</string>
+    <string name="login_label">เข้าสู่ระบบ</string>
+    <string name="login_title">เข้าสู่ระบบ</string>
+    <string name="password_hint">รหัสผ่าน</string>
+    <string name="register_label">สมัครสมาชิก</string>
+    <string name="register_title">สมัครสมาชิก</string>
+    <string name="user_label">ชื่อผู้ใช้งาน</string>
+    <string name="e_mailhint">example@email.com</string>
+    <string name="name_hint">ชื่อ</string>
+    <string name="e_mail_label">อีเมลล์</string>
+    <string name="password_label">รหัสผ่าน</string>
+    <string name="password123_hint">รหัสผ่าน123</string>
+    <string name="confirm_password_label">ยืนยันรหัสผ่าน</string>
+    <string name="confrim_password_hint">ยืนยันรหัสผ่าน</string>
+    <string name="login_with_facebook_bt">ลงชื่อเข้าใช้ด้วยบัญชีเฟสบุ๊ค</string>
+    <string name="register_bt">ยืนยัการสมัครสมาชิก</string>
+</resources>

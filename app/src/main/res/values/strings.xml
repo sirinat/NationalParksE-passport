@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">National Parks E-passport</string>
+    <string name="login_title">Login</string>
+    <string name="e_mail_hint">E-mail</string>
+    <string name="password_hint">Password</string>
+    <string name="login_label">login</string>
+    <string name="register_label">register</string>
+    <string name="guest_login_label">guest login</string>
+    <string name="register_title">Register</string>
+    <string name="register_bt">register</string>
+    <string name="login_with_facebook_bt">login with facebook</string>
+    <string name="password_label">Password</string>
+    <string name="e_mail_label">E-mail</string>
+    <string name="confrim_password_hint">confrim password</string>
+    <string name="confirm_password_label">Confirm Password</string>
+    <string name="password123_hint">password123</string>
+    <string name="name_hint">name</string>
+    <string name="e_mailhint">e-mail</string>
+    <string name="user_label">User</string>
+</resources>
