@@ -14,7 +14,9 @@
     <string name="confrim_password_hint">confrim password</string>
     <string name="confirm_password_label">Confirm Password</string>
     <string name="password123_hint">password123</string>
-    <string name="name_hint">name</string>
+    <string name="name_hint">lastname</string>
     <string name="e_mailhint">e-mail</string>
-    <string name="user_label">User</string>
+    <string name="user_label">Lastname</string>
+    <string name="fn_textView">Firstname</string>
+    <string name="fn_hint">Firstname</string>
 </resources>

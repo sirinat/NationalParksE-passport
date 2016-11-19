@@ -24,7 +24,7 @@
 
     <ImageButton
         android:layout_below="@+id/imageView"
-        app:srcCompat="@drawable/esan"
+        app:srcCompat="@drawable/esan1"
         android:id="@+id/imageButton2"
         android:scaleType="fitXY"
         android:layout_width="180dp"
@@ -35,7 +35,7 @@
 
     <ImageButton
 
-        app:srcCompat="@drawable/north"
+        app:srcCompat="@drawable/north1"
         android:id="@+id/imageButton"
         android:focusable="false"
         android:scaleType="fitXY"
@@ -48,7 +48,7 @@
 
     <ImageButton
         android:layout_width="180dp"
-        app:srcCompat="@drawable/mid"
+        app:srcCompat="@drawable/mid1"
         android:id="@+id/imageButton3"
         android:scaleType="fitXY"
         android:layout_marginBottom="103dp"
@@ -60,7 +60,7 @@
     <ImageButton
         android:layout_width="180dp"
         android:layout_height="130dp"
-        app:srcCompat="@drawable/south"
+        app:srcCompat="@drawable/south1"
         android:id="@+id/imageButton4"
         android:layout_alignTop="@+id/imageButton3"
         android:layout_alignParentRight="true"
@@ -76,7 +76,7 @@
         android:layout_centerHorizontal="true" />
 
     <ImageButton
-        app:srcCompat="@drawable/mapaow"
+        app:srcCompat="@drawable/mapaow1"
         android:id="@+id/imageButton5"
         android:scaleType="fitCenter"
         android:layout_width="150dp"
@@ -88,10 +88,9 @@
         android:orientation="horizontal"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_above="@+id/add_np"
+        android:layout_below="@+id/imageView"
         android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true"
-        android:layout_below="@+id/imageView">
+        android:layout_alignParentStart="true">
 
     </LinearLayout>
 </RelativeLayout>
